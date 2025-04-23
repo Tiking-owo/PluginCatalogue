@@ -1,0 +1,100 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"089480bc0318c7ce83754edfd8bf5a82c564eb758bd3baf544e3fee39978a98d\"",
+      "data": "H4sIAMzOCGgC/+2ZUW/bNhDHv0rq5zoiKVGiDAxdu64DCgwpthRd0wwOJVG2EFlSJcpZYuS7746SHDlxvCSN8zI9RElOd/8jT9SJP/DbalSX6WhyMJprXVQTy5JFcjhL9LwODsN8YZWqyCvrcn45vpTZDH+sRRiV41gXgQzP6wI8UiUrVVmM2o6gwiaj1wcjWVVKV9PnF7caZcxRF2kuo9s5Gmv1THlWbzK5UK9TGaj0GpPO9SK9nbKX6kFJtJxZS3JIDm1UTCLQWufF2tV6npdgXI3SfJZkmKqvuw6iPqGcU+qAIcsjNTXW0efp+ez90S/0y0dpfOVSalneeRbG2tWprlQZ5plWmTbzqK21+JvlTw7KzMpWqMlinsDOx4uam2V/ZAHRPc7TNL8Aoeljk1nr0BudJJs9VQdCV1au5woqCT5mMcySSj9hYCZsZX5BMY1SBYUtVfR4rTYQhnaRwahWZrE3knVQhWVS6CTPnjDIjXDUy8uZzJIr+UQ9CDcy5mV8fLgJw3i1hDX6BIEmbmUVZbKU4eV1M5ZQJUso+1NFbwmgpr4slHkLwdu8I/B7ukzUxbS7U9RBmoTmESVaTWW0MO94LNNKXW++yn/8Oj2/eH909LV2/hHO7/Vf6cLkkLMp9iV0uWkksBJmSk9hqItEJ9Uc7y4kaKPmHe+olLHu0sL/RanaBtUzhqWSGqYn0XPECONj4oypf0zZhLgTh56glJlQNb/Pz59w7+TmowAe357xs9OIWszxPOp7vNdSO8utkr7tl/ToYhx97BcIMkybFOOmVoeYGD3MNwBcsjpN118fNfTpoU8Pffp/2afb93DtL4sC/E3drTzUSo8rDf1z0a4bbZzathE1sldo8zwusCHDyjAb2jCvM+yj3n81YG9CxEmzE452evnGKyjzC5zkOtEPbmM7nXYva93TOq//br5NgUzTHwaCVqe3fb5KimdRbnV6ykEeXaIkPTw4rV3OYrjahJ7WjhLunx+OP53W3HbAKgKpTsvTjKGjE3tg8jgTZz9nuJrm8AijM/ANfAU37IA0CmDxqQSLCjBAkgA1bNTgIXHPXr2Kg4O5SguMdbwIo5QD2WI3BAuziXHZvAsKjhluFAfoJBunA3hoeTOKDV++6Xta+9SB217swlB94flnlc6LKayapSohOo4J5rYVzpoqHD23oSKcBraZIVhcFyvFHYYzJBz8XY9E6CPw6hMP88cR5nebiillbkRdYRxFTJH8IKhnI3jXnhVTmWDEp3vC1FZ875i6mWe/mMp6mNrmHTB12P4M258BU7diasmO6q2Yyh6KqT8KqO4xtSfcnVC2G1DBz5kQOrH9lwBUV7iuz/qA2lh2Ayr7er4LUNkAqEOHHjr00KH3CKjUc7YBqrMLUIE7sbeS3YDaerEXAFRm3dM69weobG+Ayu4Cao/iAFO9BvIa+kuy73VSqjNEMcURWBXbQDGAygijlXTXILsTC3WyUHmtz1ArUM0tGKoRUjgAiWkiwZGcY7e7+jx2bijXjvBGJAT87TGBYREzI3K7xCJGXG0lIifAfBHfTNNAKUwGsdMM1HdtHLrgyJXUM0Rpcm3Vf37AJBw+evsCzEZ8/4C5kWe/gEn7gNnkHQBz2L4M25cBMLcCZu4qsRUw6UMB88Pxp3e9nQB9QeAEPzGxyQsAJ/cFZXavuXaWncD5/cvb5XbgHEhzaNVDqx5a9f5Ik9qMe9tQk93feu1jIiaUTpizCzXXXvwFUJNat5vm/hiT7o0xaZ8x1x9MYD1XOHANWHhzUsfwKJA5yHAe2jcOCgkSphPjYScP+Jr2gBxFdwjqc2XQ0hebscCwvMsI5NeQqomNvS62vdohkp+PNGkTwhAzMSseQApC+PpgklFzzkh8PLykcZcPTyHfff7NQj+AVGBOPKjdmIEyx5h2KDsibSLvjkWEmE/4yoYH/y+AMBEaZCsAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAFCZ/2cC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "245981231": {
+      "meta": {
+        "schema_version": 4,
+        "id": "ftp_backup",
+        "name": "ftp Backup",
+        "version": "0.0.1",
+        "link": "https://github.com/yhy-yangyang/mcdr-ftpbackup",
+        "authors": [
+          "yhy-yangyang"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged",
+          "chardet"
+        ],
+        "description": {
+          "en_us": "A backup plugin for MCDR"
+        }
+      },
+      "size": 13257,
+      "hash_md5": "1560c3c0b47edddb8bea8d7c80d98665",
+      "hash_sha256": "7d55888d118e6f7769fc2455ae1e1aef4f092a31c103e2cdb93b3bcc44e1115d",
+      "ttl": 100
+    },
+    "247686692": {
+      "meta": {
+        "schema_version": 4,
+        "id": "ftp_backup",
+        "name": "ftp Backup",
+        "version": "0.0.2",
+        "link": "https://github.com/yhy-yangyang/mcdr-ftpbackup",
+        "authors": [
+          "yhy-yangyang"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged",
+          "chardet"
+        ],
+        "description": {
+          "en_us": "A backup plugin for MCDR"
+        }
+      },
+      "size": 7174,
+      "hash_md5": "a0307ba0c38d4da7b544c1d88ec98b19",
+      "hash_sha256": "1216ad78f9b625e4bad48ba67f859c2915dbf91173bbdee6b086e7ca068c9762",
+      "ttl": 100
+    },
+    "247719753": {
+      "meta": {
+        "schema_version": 4,
+        "id": "ftp_backup",
+        "name": "ftp Backup",
+        "version": "0.0.3",
+        "link": "https://github.com/yhy-yangyang/mcdr-ftpbackup",
+        "authors": [
+          "yhy-yangyang"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.7.0"
+        },
+        "requirements": [
+          "mcdreforged",
+          "chardet",
+          "paramiko"
+        ],
+        "description": {
+          "en_us": "A backup plugin for MCDR"
+        }
+      },
+      "size": 7758,
+      "hash_md5": "aef9c9419f7ec13cb6c6b4434538a54c",
+      "hash_sha256": "64b4f5f90801c9aeeab3460f5538664203b0309c14a49caf16d090445ce609b8",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"68ed1ec710d2bfbaee476bcdcae595ce710eabb645ce1f645cbaeeb4d11e11fe\"",
+    "data": "H4sIANbtCGgC/62YUW/bNhCA/0rg1yWR7djZYqDoihUYNmzoMKQolmEQKIm2WFMkR1J2HcH/fccjJVlu1iQ2HxLbR97H0+l4vGMzYsVocXF3O5/Nf5hM7i4vRkIWNEXp6M90vXr/4cNf9ezLduSGSEWdvMoLfbW0KiP5ulZuZFlznrbDu3J3tSNi5f6Sr+cqzTbEuplLwg0FidwKquF3M+JyxcQxwymhQZO78WQ+n0xmQzM/opk/TT79SnAuATzRaa25Gy2tVWaRJF5qrlfMlnVWG6pzKSwV9jqXVVInHfzt5s3MYVY6gPwqTnSMVCzgPAOYJjm2vLQVP7blQOl4+lJyLrcASl+7WNKp9hwmVqdyQLVJpC0peBLm7NElzNgTDEO1Bj/AmUgy4FhNi9ezgiKY5oJm3ySaKumRdWZyzZRlUpxg5EDd8aReEcEeyYk8UEeMs+8EdVRz+nQDMXoCwOs1CW63fLf3tuSUbcDtp0KPAI5pdwp3/UeYjXsEPtMNo9u0HVF1xlmOr4hZmpKiwj2Ou3//uh3yRDopaPfaACAgEWH06/VBgvn2c6Krn1vGEZ9z2LOgBCkOt6a782kO0rj/7a7KYeeSTGpipT4fP6A1g5+4mqWkOn8VpGCilDKCh5GCJ4YxNX1ZoD9PRZjp9pSoqyykxEgL9PuJGMNWgtLzmR2pSboMnmki8jICvAU14ZuPCLKKEBDEJ86My+x8GkxOkNQkpiThFLNpFEsd24GGaE2XcdAO1KOtjhETaLLGmGjBcKJaiI/z2S0oaVo0h1k1WUVgd6S2eFiRR6qj2BxQPn8Kq1lWR0qfPeygPsmimN2zjkufWGx/oqJTqorZGP5AznCzxIK7uP5qASeIkp1b0CDz+wMmDMU6YZ5cKTQqcULSgZLmO0Vs2TpJEU1j+MhxkiYjUNZdX183JSW+LKmojpEDPAbPSJ2XUIaeTWxaENRlFbHYTSzR5ALaCy5Jcb7VHamLmVjlyCBGFBS+54ORMuBWjFNjpYjx/jrUYAUhLVuy/EV91vOLDGjNW8NETi8JNAUQnJblDOIeOttwOmWUxziaHAYeiVQ0dFmckhgHagtqklDfF1RxuYuT0w5YmAY0JRYaO2IddTqezq/Gs6vJzf34+8X8djG/e8DmThVPzJre3E9uFjfzxfTmwceiKf9/0sSjXPYPzwBfX9zyuYfEI8+UB+o/9sqLFyjnHKLwtJazW38jTu9ZS1lRBdVM37Aa9uh+zWbD8iaXtXBenIJ4SywU3EfCti5ydvyxs6U/sktiUp8jQG51TYNMafmZ5vZI2meogXjL1uxIHQuwvq1GZWbyGhoNd2nSj/huuTV0gnlEa9leyoWHDtm3OFAEHMn4QCQVFeFpOuLYPTrLqTAU7w2hB3YeIIqAi66m1+PD68p3KL34zc+/CKNGFV/C1d67gdq3N1ZY1SRHa/XXkb+/z2/vf+afHz7NHx/uf3kzcnccxF2puWNmDdmn9yozqaWV4sP70C3NQmGUug5OLpfQVPxbMz3wi5WK5c7pf/8DvzbMsIxxZnfDKxd/4+DfwYEngw/bmArRVNAlqblNfUuHV72EYUQpqivWveZmNLjEufTzLBmIXBY4NFczH6f9OOfBE3u8TahU6jemlWsq2jtXQe0WnmEQTIeldCff/weAJHGEzRYAAA=="
+  }
+}

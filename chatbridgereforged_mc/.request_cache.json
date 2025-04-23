@@ -1,0 +1,102 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"846200f7e528697b8d2c729b084a0ceda41bac56e2caf4d9c6285574301f5cb1\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPR61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "88875338": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridgereforged_mc",
+        "name": "ChatBridgeReforged_MC",
+        "version": "0.2.7-dev032",
+        "link": "https://github.com/R1ckyH/ChatBridgeReforged",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged",
+          "pycryptodomex"
+        ],
+        "description": {
+          "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).",
+          "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）"
+        }
+      },
+      "size": 50532,
+      "hash_md5": "6271068e634f010bec9070d172b37c75",
+      "hash_sha256": "b8ac698565a05fd3250d86ef2068906a1eeea6154ab24f4832536257f79d2f09",
+      "ttl": 100
+    },
+    "58518201": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridgereforged_mc",
+        "name": "ChatBridgeReforged_MC",
+        "version": "0.1.1-dev024",
+        "link": "https://github.com/R1ckyH/ChatBridgeReforged",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged",
+          "pycryptodomex"
+        ],
+        "description": {
+          "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).",
+          "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）"
+        }
+      },
+      "size": 48090,
+      "hash_md5": "8ff41f0bf3980eb687d3c3ed09a58923",
+      "hash_sha256": "827168ae64c4ad109478ef41f87582df9b1b82de2c369a3004ffc71a0540a31d",
+      "ttl": 100
+    },
+    "54058513": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chatbridgereforged_mc",
+        "name": "ChatBridgeReforged_MC",
+        "version": "0.0.2-dev022",
+        "link": "https://github.com/R1ckyH/ChatBridgeReforged",
+        "authors": [
+          "Ricky"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [
+          "mcdreforged",
+          "pycryptodomex"
+        ],
+        "description": {
+          "en_us": "Reforged of ChatBridge, interaction with other clients(such as minecraft server, discord bots or other custom clients).",
+          "zh_cn": "ChatBridge 重制, 用于各个客户端（服务器或者其他bot）之间的交互桥梁，多服互联（不是）"
+        }
+      },
+      "size": 45978,
+      "hash_md5": "1ce0df4ff651d1a1f5a5cc3d567396cf",
+      "hash_sha256": "e9d369fd9846d9b38526be98916d95f72f82d6fa656890b48751dd8a4f603c20",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"ba5567bf7a6aafcee9632b2f83b7de8b4ad2d5fe248752bcd310d430979194d4\"",
+    "data": "H4sIAOt61WcC/62YbW/bNhCA/4rgTxuWWH5rmhooOmwtsg5p2hXp1mUYBIo6W6wpUiUpe7aQ/74jKVmW1zVxpS9+oXgPj9Td8e7KAUsG82D6dHJ5+XQ2nZwFAyETiNzo4M3LV5u3/FdOr57tyMf3aypWu5vd69nbl3T0Zvf6+cBOJxnYuT+nxPykWLKE97CQagmJfbooOI/qKe/HdLX9JfzyzFyxNTF23oJwDTgiNwIU/i8HXC6ZaAh2ulNwMntyMb0cz461/u3i9483nH56Pbq5/XP39uWrkRUhyCcqKhS3s1Jjcj0PQz+qh0tm0iIuNCgqhQFhhlRmYRHWa7xYP59ZylJVHL+YHTom5qyieQQiddhonpqMHytxML2ZuJCcyw0KR49fINwLNQQmlqcTUKgMpUkBDwyf3rutM21OUsYJlO4Lj8sxNB6dguQUSiWC6liDuC9DBbn0sCLWVLHcMClOUqwlaElohkSwHTmZhIIOYHU6SdAJWElYo7GdJOolytC5DN3e+/UpsDUe7Om4I1FLM9vceewHnOcsHL+jNYNNVD/Ji5gz6l4CMxCRJHMe6nz3/rFW/j+hIIH9y3FOXz0K5CJoBM4Chm6qCLXTgg2iA2euAeXMbuM7XdA0IDp4wwRQRRYmwE2sQZ0FCdNUqiSIpTkLpKrkTIo2r78fesdRq4NI9PXDdG/y6zuyvIfeyQOY0DEsbAXbriyLKO1n7ZYUnZ7EUhEjVVd4i1W2/rq1DJCs6xqO4aKplJ1P1jHcpaJ1AY/zoIeYDqX3riqKLK6iaC/4xlWJ1mwpALoS95wy3Af8WBFB087oGlNWv7wVkGVnIyA+9sZcxl1ZODV0nDLUKamuOxP1oKUlW0wbrGDRB9hiGrBR3e3AqaucHdRYvIAN2kRXco0JyxrMiVgWZNmZvOfUGcaS7ED1oG8F8hFSGMXiopcA2aAO0pi4B5Ub0nF+1A/ZX8ruOLKMme4n4Sht1+gHbe34P3g70EP0rTGtuO4vj+pRP7fHF9epypM+jNBiwvKHnJi0Pp6cKOh+OpYSljHBXHA4HJYpEJ9mZKC6e7uHuLtP0RQz1468ssbg/4wYV2AsnLoJVhxckqSrxnvO3k76SS9adpFjqd0V6xgtasY4aCNF97e2B7X4Qhq2YPRRhddDS7RY5QvNBIUzwvkZmqNhlKGdY4pf3Twx8O7XjoXgdkgGVRHGgXS/KGtMGVbZeQI5l9s+ItcByTm8AmKw8iPGMiejyfh8dHE+Gt+OL+aj0Xw6uXPVX560Z83Ox5Pz8czOmjybj5/eefvT6eGk6flogrTbMc64nI/Gd3V8r3aAPx9ZE9oNuutMpwfCPzai8wdFKUfL+5Z6dL/2WnxrOZvKDHLMTup2kWY7+3tyOWpnK1QWwh7e9AmOb4jBlPl4tE50LOrd1qT+Lk6JjnxAwHGjCqjGciU/ATVHo00wag1v2IodibuMqqmCnTCWzgVWCrZt0jzx5W2t6cyFDaVk3WsTGFWaaJ0cCCKOxLw1JHMQ1W72RNuW5IyC0OD6gVi42hPgy5yfT4ejwzbk1c2H4Bo0VjDBFQhQhAfvXKsiuPaAYF1J6Dz5p2riXV+9u65BX/evSgsdttY+7D3Si9sr/unujye7u9tX24HthRDbULO3ywrDT3PGTEcGspy3u54biKsMKLIFmVwssFb4XDDVOiUjc0btK/gLk34mB3/j2JppFjPOzLbdoPGNA/9eDk63Otfa0GoTS2BBCm4iX6pZUka08W2gHFTG9m+/HLS6PvatEyYMaQ3ZqHCot2LefJvnnFdHcu96A1keeWc1cgWi9hkBZoPbaNnYYdpcj4/v/wXP1xv20hYAAA=="
+  }
+}

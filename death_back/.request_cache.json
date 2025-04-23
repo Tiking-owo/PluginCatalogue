@@ -1,0 +1,73 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"237187bfba845dfcdc7b14a33da50db13823802f7fdff667f3630e8617caff1f\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPV61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "210083165": {
+      "meta": {
+        "schema_version": 4,
+        "id": "death_back",
+        "name": "DeathBack",
+        "version": "0.0.1",
+        "link": "https://github.com/Mooling0602/DeathBack-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0",
+          "mg_events": ">=0.0.1",
+          "minecraft_data_api": ">=1.4"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Go back to last died place quickly.",
+          "zh_cn": "快速返回上次死亡的地点。"
+        }
+      },
+      "size": 1371,
+      "hash_md5": "9c3d071cd6a2ce4682f96f89623cde5b",
+      "hash_sha256": "5d9e313ba8f8db6011c215797729d362d7374edd2b5982aa775b5a89d54da0a4",
+      "ttl": 100
+    },
+    "212415943": {
+      "meta": {
+        "schema_version": 4,
+        "id": "death_back",
+        "name": "DeathBack",
+        "version": "0.1.0",
+        "link": "https://github.com/Mooling0602/DeathBack-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0",
+          "mg_events": ">=0.2.1",
+          "minecraft_data_api": ">=1.4"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Teleport you back to the last place you died quickly.",
+          "zh_cn": "快速返回上次你死亡的地点。"
+        }
+      },
+      "size": 14250,
+      "hash_md5": "7cef4e32db4c53fc82734c1d6d4ddc73",
+      "hash_sha256": "00dcd300bb50e3ddc80134b89cffba59698a7666d652b1c30ff63069b0bae094",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"32bd9686ab66435598470ec72ea7dce92241015223acefa93bb0c71433792fa5\"",
+    "data": "H4sIAOt61WcC/62YUU/jOBCA/0rU14OmLdCFSqu9XZC4B+DQCnQnTqfISaaNt46dtZ12S9T/fmM7SZOyt1CSF0psz+fJZGY842JA48HMO7+Ynk3PJycXR96AixgCOzr4GiwXV3/e/X15I9cDM0VSMONXQHTyhUTL49vLq69mZp4zFlTTt0Iwyhej6Wjiv1yaSboi2iycE6YAR8Sag8TnYsDEgvI9hJGx6oxPP1xMTyfT87aSj1bJy7s/voSfzVqCdCKDXDIzm2idqZnvu1E1XFCd5GGuQEaCa+B6GInUz/0a/mn18dRgFrIEuV3M0D4yoyXOMZCp/D3FE52yfVUaMnur54IxsUZMcOBWfi25w+DUOzH4VPhCJ4BWxCVbaw6q9OFqWanC/qAdLUihTSXEB6NKOVTMeMu28CVkwhHzUEWSZpoKfriKLWmDE3JBOH0m78OhtKUY7Q6XtlJGHFbomofLO7HCtzEWbbZOkwjoCi3+TuaevEHqTWYD/REX28DA32BFYR1UM1keMhrZr0M1BCRObVzbiN8eFBc/ySAx1F/MyH/2zATM0fQQexnLMYcceRoYGlNqbyNyTwsP3dljRGlcQCKwozHF9d9zGi3ZZugCRy4beenXlrLf6hVNDfA1i7/G8S3E0Jaw6QwzjML8reIxwpAnoZBEC9mZ3oIVrUe7mQaSdt7EQmxyFaK7dS3EnjFK5fC2IHkValmqDkeep2GZR/vh70KRKEUXHKAzsgYVfp30Q0l4lHRnV5yi/M/5All0dwXism3IRNgZhmt9Cyp8lZDy1NNBH3oatOG0yRLmvZANZ0fWsgdvsApL6w0VFw9gjZ7RGV1x/KIiM8IXOVl0R9egqtBYkGeQfWhcklzC5FrSMO8nX+5YjVIm7EPpHWq/SOoJ7Q5ga5E0pboHY1hMO0Z6Yht/fsE3A31k44rTSvTuOCmnejpPfrpR2cf04ouG4xe/ZThRWSgjEnowkMH4RUiw/BsOh0UCxJUfKcgeAt9R7HkoowSr1a7AouJg8ZUSbduNuVU4xv6DCRJ31rkG1d7SU9nR8o4MG/POXAtpYVPKQGnBe/h0Nam1AReazmn0pi7s1T1asOKTojyCI8LYEXqlphFFf0fJ8iwKgfVwEBkKvhBJoWzCGJAeDs+KU/hl+R5DxsSmlzTWQNnYlziNbR/RBjoZTU6Px+Pjk9HD+MPs7Gx2ev5kW78sfrFqcjzGVdPZZDI7mT45L1TJ/y2qUSbdl6+A/761ITSvaA84lTSkf9/Jzl6XjRj637va0Xr3FX93O5uIFDKsWlCYY6DZnvnZPJ2M22VMJHJuLDjC4TXRWFHvDVb1j1HjfqMTdzwnRAUuM+C4ljmUY5kU3yDSe6O7tNQaXtMl3RO3hdauW7bCVEU5NhLmKmU347rgpqIplVJUd3TlS5cZN24IIo6ErDUkMuDl27RfnUbAFdhbROxurRtk7PhkOGpeXF7fPXrXwEES5t3bKwrvxgl6q3KpyuIf5Z3f9f1NBfh1aJWbK7+55e6G8vYqmj5cs29Pf509Pz0sPw7MDQgxN23meFmiZ+wsS1WgIc1Y+4Z0DWFZCQWmSxPzOTYP33MqW7bRIqORMfw//+LTiioaUkb1pn0h464TnNUa1tzzq/IxhjnJmQ5c32ZAKaHWqzKQKa0/dTFoXfEcuXWatIZMFmiqK6nz1d08Y6UltvayIM0CF5paLIFX17Ac9BrfofX5m4VzNT7e/geXqvJ13hYAAA=="
+  }
+}

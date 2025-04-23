@@ -1,0 +1,105 @@
+{
+  "meta": {
+    "schema_version": 4,
+    "id": "player_batch",
+    "name": "PlayerBatch",
+    "version": "1.0.0",
+    "link": "https://github.com/Eason120806/player_batch-MCDR/",
+    "authors": [
+      "Eason120806"
+    ],
+    "dependencies": {
+      "mcdreforged": ">=2.0.0"
+    },
+    "requirements": [],
+    "description": {
+      "zh_cn": "MCDR假人批量操作插件",
+      "en_us": "MCDR Batch Bot Management Plugin"
+    }
+  },
+  "plugin": {
+    "schema_version": 1,
+    "id": "player_batch",
+    "authors": [
+      "Eason120806"
+    ],
+    "repository": "https://github.com/Eason120806/player_batch-MCDR",
+    "branch": "main",
+    "related_path": ".",
+    "labels": [
+      "tool",
+      "management"
+    ],
+    "introduction": {
+      "en_us": "# PlayerBatch - MCDR Batch Bot Management Plugin\n\n![License](https://img.shields.io/badge/License-GPLv3-blue)\n![MCDR](https://img.shields.io/badge/MCDR-2.1.0%2B-blue)\n\nA MCDReforged plugin for batch operations on fake players, supporting quick creation/control of multiple fake players. Compatible with mainstream fake player systems like Carpet Mod.\n\n## Features\n\n- 🚀 **Batch Creation** - Quickly generate sequentially numbered fake players with simple commands\n- ⚡ **Action Execution** - Perform batch operations like attack/movement/removal\n- 🛠️ **Custom Configuration** - Flexible settings for name prefix and permission levels\n- 📊 **Real-time Feedback** - Instant operation results and error logging\n- 🔒 **Permission Control** - Multi-level OP permission management\n\n## Installation\n\n1. Place `player_batch.pyz` into MCDR's `plugins` directory\n2. Restart MCDR server\n3. Configuration file `config/player_batch.json` will be auto-generated\n\n## Usage\n\n### Basic Command Syntax\n```text\n!!plb <name> <start_id> <end_id> <action_parameters>\n!!playerbatch <name> <start_id> <end_id> <action_parameters>\n```\n",
+      "zh_cn": "# PlayerBatch - MCDR假人批量操作插件\n\n![License](https://img.shields.io/badge/License-GPLv3-blue)\n![MCDR](https://img.shields.io/badge/MCDR-2.1.0%2B-blue)\n\n一个用于MCDReforged的假人批量操作插件，支持快速生成/控制多个假人，适配Carpet Mod等主流假人系统。\n\n## 功能特性\n\n- 🚀 **批量生成** - 通过简单指令快速生成连续编号的假人\n- ⚡ **动作执行** - 批量执行攻击/移动/移除等假人操作\n- 🛠️ **灵活配置** - 自定义假人名称前缀和权限等级\n- 📊 **智能反馈** - 实时显示操作结果和错误日志\n- 🔒 **权限管理** - 支持多级OP权限控制\n\n## 安装方法\n\n1. 将 `player_batch.pyz` 放入MCDR的 `plugins` 目录\n2. 重启MCDR服务端\n3. 自动生成配置文件 `config/player_batch.json`\n\n## 使用说明\n\n### 基础命令格式\n```text\n!!plb <名称> <起始编号> <结束编号> <动作参数>\n!!playerbatch <名称> <起始编号> <结束编号> <动作参数>\n```\n"
+    },
+    "introduction_urls": {
+      "en_us": "https://raw.githubusercontent.com/Eason120806/player_batch-MCDR/main/README_us.md",
+      "zh_cn": "https://raw.githubusercontent.com/Eason120806/player_batch-MCDR/main/README.md"
+    }
+  },
+  "release": {
+    "schema_version": 8,
+    "id": "player_batch",
+    "latest_version": "1.0.0",
+    "latest_version_index": 0,
+    "releases": [
+      {
+        "url": "https://github.com/Eason120806/player_batch-MCDR/releases/tag/1.0.0",
+        "name": "1.0.0",
+        "tag_name": "1.0.0",
+        "created_at": "2025-04-19T12:59:40Z",
+        "description": "#添加了批量假人操控功能",
+        "prerelease": false,
+        "asset": {
+          "id": 247940281,
+          "name": "player_batch.pyz",
+          "size": 2247,
+          "download_count": 3,
+          "created_at": "2025-04-20T15:48:35Z",
+          "browser_download_url": "https://github.com/Eason120806/player_batch-MCDR/releases/download/1.0.0/player_batch.pyz",
+          "hash_md5": "7e7265384e07d5fb76c46d940739bc58",
+          "hash_sha256": "f3489058f4e65fcea1200a74ac280f7644c249ab63530779eb0db938628a0e32"
+        },
+        "meta": {
+          "schema_version": 4,
+          "id": "player_batch",
+          "name": "PlayerBatch",
+          "version": "1.0.0",
+          "link": "https://github.com/Eason120806/player_batch-MCDR/",
+          "authors": [
+            "Eason120806"
+          ],
+          "dependencies": {
+            "mcdreforged": ">=2.0.0"
+          },
+          "requirements": [],
+          "description": {
+            "zh_cn": "MCDR假人批量操作插件",
+            "en_us": "MCDR Batch Bot Management Plugin"
+          }
+        }
+      }
+    ]
+  },
+  "repository": {
+    "url": "https://github.com/Eason120806/player_batch-MCDR",
+    "name": "player_batch-MCDR",
+    "full_name": "Eason120806/player_batch-MCDR",
+    "html_url": "https://github.com/Eason120806/player_batch-MCDR",
+    "description": "一个用于MCDReforged的假人批量操作插件",
+    "archived": false,
+    "stargazers_count": 1,
+    "watchers_count": 1,
+    "forks_count": 0,
+    "readme": "# PlayerBatch - MCDR假人批量操作插件\n\n![License](https://img.shields.io/badge/License-GPLv3-blue)\n![MCDR](https://img.shields.io/badge/MCDR-2.1.0%2B-blue)\n\n一个用于MCDReforged的假人批量操作插件，支持快速生成/控制多个假人，适配Carpet Mod等主流假人系统。\n\n## 功能特性\n\n- 🚀 **批量生成** - 通过简单指令快速生成连续编号的假人\n- ⚡ **动作执行** - 批量执行攻击/移动/移除等假人操作\n- 🛠️ **灵活配置** - 自定义假人名称前缀和权限等级\n- 📊 **智能反馈** - 实时显示操作结果和错误日志\n- 🔒 **权限管理** - 支持多级OP权限控制\n\n## 安装方法\n\n1. 将 `player_batch.pyz` 放入MCDR的 `plugins` 目录\n2. 重启MCDR服务端\n3. 自动生成配置文件 `config/player_batch.json`\n\n## 使用说明\n\n### 基础命令格式\n```text\n!!plb <名称> <起始编号> <结束编号> <动作参数>\n!!playerbatch <名称> <起始编号> <结束编号> <动作参数>\n```\n",
+    "readme_url": "https://raw.githubusercontent.com/Eason120806/player_batch-MCDR/main/README.md",
+    "license": {
+      "key": "gpl-3.0",
+      "name": "GNU General Public License v3.0",
+      "spdx_id": "GPL-3.0",
+      "url": "https://api.github.com/licenses/gpl-3.0"
+    }
+  }
+}

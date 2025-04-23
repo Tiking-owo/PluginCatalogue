@@ -1,0 +1,45 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"7724ca1a8e2e22181c038e41beae4d32aac0b2708512b06c425c3b5704dbed17\"",
+      "data": "H4sIAI2nCGgC/+1W0W7aMBT9lSp7LdgJSQORpqpr+zQhpK57oUyRk5jEqomj2IEC4t937YRA6VYNxp7WFyKu7znn+to+9tPaqkpuBRdWplQhA4RIwbopU1kVdWMxQyUthET3RIrcdnAfX6GCkyUtw4ioOOsMb+8eIIdTIqlEjt1z+75vO9blhUWkpEqG/4Ie1dxapSq4IMmhSh2VZ1NaX+dkRi85iSjfaNlMzfih6J7YH8ookiK7i7tYU7IEyFph3cBKZaKE4NriImW51tojbjEAAYTveRDIRUJDE7W+h8/p3ej2JsNfF2Y95kSR8s16mOi2U5WkZSxyRXNl5lGhlvx6/tnVNGnZENUqZg3eXWLN+arxx/VPZ08F52IBNOGRUqhF7mhYnp5IA8g1EiqD1dQpZiOkTKrjyzKotflAHw2RhJ6WNDmaqsFBYYscalqbjV4zVpGMS1YoJvLjS3yF1nSiTEnOVuQ0OkAbFnMMj0YblIbTOWzN4/E1bI2Kks1JvNzUlcSUzaHjJ3Ie4DWlWhbUHD1INgcDvuGc0UW4HSmqiLPYrA5TNCTJzJzrKeGSbl6f34f78HlxNxrFIzwcusNq/CU1GiQNtRnplNY7YA+kVIVQ6IwpJjM9OCNArSkPk5OSTNVWFP4XJW0caS8Yl5QomBzRmZaDHa+D3Y49eLSdwBsELh5rKjMdmf0yrxdgHHj+eHcXQMbTWe+bmhY5rj9wsdO3dza6jRy09Ga/paMX/M3b79C+UrdYrvSYsXwYzCvO2+uGfrjyhyt/uPJ/48rN4WvzSVFAvuk5eumsWNGBYsBGwY6SZtcok9jYRR1kKx1zwJu0CcPGMC/XWFS59s7eb03XwY+2F7j9oOeN6ydv8m5WbblRKRZ6oq3QX79Wt0z1kxW9ccvNj/omigjnZ3j2N0y7BzL0+UzUDdOOOhLJUnN+mlRXyTSaVJ5D8KRyaf8KIo4/mFQDO55CHLu+jkcE4m6cwG+P+Dp/AKN9PE2gDT8BtFqnZ1UNAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAFx6CGgC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "247940281": {
+      "meta": {
+        "schema_version": 4,
+        "id": "player_batch",
+        "name": "PlayerBatch",
+        "version": "1.0.0",
+        "link": "https://github.com/Eason120806/player_batch-MCDR/",
+        "authors": [
+          "Eason120806"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.0.0"
+        },
+        "requirements": [],
+        "description": {
+          "zh_cn": "MCDR假人批量操作插件",
+          "en_us": "MCDR Batch Bot Management Plugin"
+        }
+      },
+      "size": 2247,
+      "hash_md5": "7e7265384e07d5fb76c46d940739bc58",
+      "hash_sha256": "f3489058f4e65fcea1200a74ac280f7644c249ab63530779eb0db938628a0e32",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"27ca3ddab79137f8d67f9e5ee1d4c96fd4e79ea3daf1463e81a29ff3cb842d98\"",
+    "data": "H4sIAFV6CGgC/62Y227jNhBAf8XwaxNLdnxJDCy2i02Rh26aYJGgQJpCoKiRxTVFqiRl1xH87+VFF8tNd+OUL4k84hyOhjNDDqshSYbLwdX8ajyZX83Ds8GQ8QQiKx1+jdar67s7fBfefhqaVygHIy8o2oGIYqRwdn77+fqreZmWlEbNiF+Q5Gw8CS/DefDq6EKQDVJmbIqoBC3hWwZC/66GlK8IO6IYHWvU+GK6WIwXs1nf1Edr6udPWfjr1oxFmo5EVApq3mZKFXIZBE4qRyuisjIuJQjMmQKmRpjnQRm08I+bD1ODWYka5GYxomNkQWqcY2imDI4Mz1ROj0050DkanXJK+VZjohOnClrNDkPY6p0YrVkFXGV66cyQvXUHkep0s6xWZf9pP1qQ1D4VkJyMqvW0YSZa9lUgoOCOWMYSC1IowtnpJva0DY6LFWLkBb0Pp7UtxVh3urbVMuqw0aF5ur5TqwKbY3i3d5ZgIBvt8Xcyj/QNUu0Km+uPerBNDP0/2hDYRs2boowpwXZ1iIIIJbnNa5vx+5Py4vUikkC7aAbxXE4hDM3fCXouF7PJpXm+BDMcUr0mkGjx/HL6XM7C6cK8jPXA+WRx9VxejXGqn6dYj5mmM6yfL5KJGZPWWSnWB9Xq+/6zK/hj+w3zR0vxBlRgOQa4hp0PnsFU5m+TrlhXBBRzgRQXPibo8areTzufApT7mMdybAXm3IunLcfuRVKW8LZkegvX4mSbuazM47rkepuiS1wkJVkxAB/UllUF7S4RC8Rw5gXfoKr6yUUHWnkJDuSKdEx57IOnhweWVQUyQ/V+qSJP1hq6QfXhAlJfcIPq4Er4iQ9rtrDx0aD1Hq50rPigN6igauAUsVWJVl7oLas5sazQCwhPdtcwV12ZEiQuvRXXDndwMoo9md7Rjo9d/uhuS7euyXOi/HjFkvrp4w9v4vxfUxiBp+rdoHp7g9uE6lf+dqFX56obJV8BalBB9VOBVNa4qkAC/HjKkIIqRvqUORqNqgyQO8bkIPxUBgeye6nAmT4Xe2BWDUqf5nKkbG+TWrMT3exQjhIflresNn78HV968VKUlPpAW06PnBMKUnHmZyVbWG8OxhVJCX5T+/eWaXq86qMkDMMZovRMh6oimOg80P12vYPFQP1sXwakPwvlUPeAFJCfjbdBVUHdISRQUL7zVe0OaLY4CEBK955IGe4knMzOw+n5+OphPFnOFsuL6ZPtP4vklVGT8GE8W05ny0n45OJSZv89aLx4avaG+iv04wldqflQuy3K7ADwc6e+fJM6pjoi39sZtzZs2P9prjOeQ6FPP829lyQv5vli0T8MYV4y48uxFm8N4FjYnKIM536nMrexZ0hGrmpouRIl1LJC8G+A1ZG0q1o98ZasyZG6Pa51bbpVJhKXuk0xNzvdG9d7N4aGtq4IwZsrQ6bLTlfekwNFjUMx7Yl4Aaz+mh6REgxMgr3U1N20jYaCnl+MwsPb1JvfHgc3wEAgOri3NyaDL05xsKmHyiL5u76CvLn/0gC+n2f15DI4nLK7ML29xvOHG/rt6ffZy9PD+sPQXMggc/FnNqC1rkadZ4mMFOQ6SnoXtluI6wNUZHpAnqa6HfmrJKLnG8ULgo3j//hT/9oQSWJCidr174fcDYbz2oE3a0kTV3VEJZCikqrItYQGlCNio6oAkZN2qath78bpzI1TqCcy9eDQXEFcrHbvKa09sbc3E3kRufRUfA2syQ4Gaqu/obf8hwfvNiP2/wDJoDIwcxcAAA=="
+  }
+}

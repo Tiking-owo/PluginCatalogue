@@ -1,0 +1,48 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"3d1ef0a44d959d35634f8095946c2a8d3880f5f0d1457ffe020cff70fbc8de6a\"",
+      "data": "H4sIANAIB2gC/+2XbW/TMBCA/0pUNGmTaO2mSZtUQohRQEiMCihC7EWRk7ipRRJHttPSVfvvnO20K0VsE5n4tA9NFfv83Jt951xsOrXIO2Ons1CqkmOESMV6GVOLOu4lvECCVlyiL68+zL5NpxM0oznNBCleL4iCuZwSSSVy8SgYhaO+23nudIiUVMnoMbHIMjW9rnJO0kO6HZWtNWxelqSgz3MS0/xGq1uoIj9UtqfkHrwiGVq6PdzraxZLgbLTqCNVqwUXMLjp5DxjpVZi4V2SKMZLeRFzdbVb6/WDMHADvbTkKY3MYOdscjb8VIT44+SNN51l6+nk/QuThyVRRPyRBzO6jVQtqUh4qWipjD+sRH1/MAxeLl94mgEuWYpVZRJwZ141UKLfnTjyT8GNI3/ygICSqjpcrlfNeZ7zFaCjFurRjnKLZGX2CEigbBBXCwrhBnGzczImVTtzDWFj/iD+BiohF4KmrbANAwxelWDrxpwUS69jmQhWmQXtdOyTNJqLjJTsmrRHA8kQzfluRTIEjaJL2P/tWBaxQZVgS5Ksb6yFCWVLyNYj8A9YGq/WFdW8U67MuYT10ZLRVbSdqOo4Z4lJLFM0ImlhSsyc5JLe/F5DPr+Jfqwm0+k773oWeGffIy8zKkgW6YKoRW7rGOyfjKoIjC6YYnKhZwsiFRV69k/5VJC52iqG90rQpkLuDSaCEgX+ES3ZcbHrd/Gg63qzvj/GwXiAzzXKuCQXf5MLx9jKNf1i7Fw8Sn+zOOR6eDDAGAe31Xw7chDOV/vhnH5df/2+H5p9JV0bp16RpCZ8pvXsaq1pa/SpRTy1iKcW8dQi/n+LaA7+Th7OHsibFCGeKKq6UkHhLpqNp4xQU7VSi73WYy5cewe6FcCGMvf3hNelruDhfaUfSrp3bmtheqeUb6RiwVfay52if767bwnNBR79tWjfXNmeGJM8b/HV0xD2vheuWdWS2RD2mDFP1xr27JlzWmfOW/aTyktxWXadz9Zx57IeJqQPzxEOL2uPYgLPuYsdIhSbw65zji+22q6OHxxXe1tAOMWj4Tz0Ytd3h9BG/HTQjwMKLy51w36ckNQlfuidnGir9A8sfW3WNnb6AzwksTfeGWydc463ek8gI78AkjnLhNcOAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIALdh4mcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "240330008": {
+      "meta": {
+        "schema_version": 4,
+        "id": "telegram_chat",
+        "name": "TelegramChat",
+        "version": "2.0.1",
+        "link": null,
+        "authors": [
+          "SALTWOOD"
+        ],
+        "dependencies": {
+          "online_player_api": "^1.0.0",
+          "python": ">=3.10"
+        },
+        "requirements": [
+          "python-telegram-bot>=21.10"
+        ],
+        "description": {
+          "en_us": "Scalable Telegram-Bot.",
+          "zh_cn": "一个可扩展的 TG 机器人"
+        }
+      },
+      "size": 22073,
+      "hash_md5": "5b6d431d9e29d83aef6ba6e4de5763a9",
+      "hash_sha256": "a32f1bc75fd040127f4f1c3e843ea44e547fac99f8bfa429d50884e3e1706355",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"e9269cb874fba42ba8da32ce5a4643f772b8ea0dd62a0d7327eb13aadcff4c17\"",
+    "data": "H4sIACcpBGgC/6WYX2/bNhDAv4rh1yWW7dlZYmDouqXoS4Jkm4sCGQaBks4Wa4rUSMquLfi770jqr9t5cfgSRyTvx+PxeLxjOaTJcDG4m938NLuZ3E2uBkMuEght6/CPcLO+f3r6ODssd0PTRTIw7UtgsJYk+y0l2rSvCsbCuvPP9w/Lz09P98HpqFzSLdFmzIowBdgidhwkfpdDJtaUd6WNgFViMp7f3Y4nNyeqfbKq/co+pO9/N2MJookMC8lMb6p1rhZB4FrVaE11WkSFAhkLroHrUSyyoAga+LvtzzODQX0dyM1imk6ROa1wjoFMFXS1TnXGTvXoCHSHrgRjYoeA8JJJgkasZVC+fgsDxcpA6BTQcth/tCagSl+okBUp7Q8azlIUGlFCchmnEkKVjGMcy0BCLhyuiFQsaa6p4Bcq1xM1LCHXhNMDeQMLRS3C6HWhqBUxsrBF/7tQ2MmUgT1C8f7odIiBbtHEbwGeCBue3uf2/H7Ckdbv8TfcUtiFdU9eRIzGdjuohpAkmT2z9jQfX+/53wSGBJoNsiEgJoxEDAb1uEEk9Mj5utx0wsf5FVuD//ekhvV/RjuDCKy8AW1g78Mx4qX5W5+cGE8miYQkWkgfcI9T9j7tPBpI5sO38jbgCeFlSStv471SBbzOnc/xLEY1Z4YXWVSFNm90e1qIUnTNAXxoDaMMmugbScLj1AtbI8rqP7fbZO212cQFvoiJyIeDwwLLKAOVkuq+0aGndoZqEH2ohJUv1CBaqJZ++23VlHa/ayTeeBr33odaI4KyhjLC1wVZe1EbRn2Zr8kBpKeeFcRFOa4ljQrvINdiOnlC5KlqSzlNPvyp7p6zJsgyqv1Wbwl9t/fHGj/9Bm0aPKNnjejFZBf0qy7/qP/dOaqk39fRDCIof8iJTmuT5ESCn0UMISgjginUaDQqUyAuDchA+p1gB7B3lYxTTPY8WGWNwKwnI9pm5iurZoKpOhMk8dG0YTT+4H/99/Y/x/rUB2nle8SMMlBacL8daiA9Nhearmj8qvrkHL7HKd8pymO4IoxdoctpGlP0Y6z/qhsjAuZ3XRgALoNkUFUnDIjfxVYjyqDKjBPImdj7RqEOxR5iCURjIYRVAfKm4+n8evzj9WSynMwX87vF/PbFFkN58p1R05kZNb5dzNyovFDpmUHzlzpGV9rjv68okczC7DWk0o7gL63Y4qxYzNDDLi3Lmjm3/C0VXSoyyDF7QDmOZ8dWjAfzNb3ppxOxKLixlnnd2RGNaetJY52HGA2e9zp1V2dKVOjOObZrWUDVlkvxBWJ90trGl17zjm7oibhNeNoC0wpTFReYqJvHg7bHVY+1omMbEaQU9QNUtegqaiYdQcSZ2rbbJHLg1Wr6S6cxcAX2fQzrQ2OBLGfX09G4+xb3KA4UK7vBsy3OBw9OaFCNUnnytXrLenx+qGXPH55qXhV0Z2tf3h7v45vlR/bl5fP88LL8MB6a0p+Y1yRzO2wwpLRGpSrUgJj+s98OoipLCU0BJFYrzNX/KajsmUWLnMbG5n/9jV9bqmhEGdX7/kuEK8PdFnQMeeJS1WcCK1IwHbq6yBqUKO2eO3KQGW32uRz2XjfM/hLKNek1mePeVVhS56htP2OVLY624M7y0J1GLTbA6wdGDnqHq+h5UzePbXzi+C+eCXgVrhUAAA=="
+  }
+}

@@ -1,0 +1,150 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"5ea02dc7d40081254b04dc6e6d15649ebe1f8c3e212c1f178622dc458ae113b0\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPV61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "234482753": {
+      "meta": {
+        "schema_version": 4,
+        "id": "im_share_chat",
+        "name": "ImShareChat",
+        "version": "0.0.3",
+        "link": "https://github.com/Mooling0602/ImShareChat",
+        "authors": [
+          "Mooling0602",
+          "XueK66"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0",
+          "im_api": ">=0.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A cross-platform instant message sharing plugin for MCDReforged.",
+          "zh_cn": "一个跨平台共享即时消息的MCDReforged插件。"
+        }
+      },
+      "size": 6721,
+      "hash_md5": "5069c2afb6e59f435e64b1a72d72c1b2",
+      "hash_sha256": "65189e15b901d8125fc5637828831c73f1d54be283035662b0e16217385666fd",
+      "ttl": 100
+    },
+    "227795613": {
+      "meta": {
+        "schema_version": 4,
+        "id": "im_share_chat",
+        "name": "ImShareChat",
+        "version": "0.0.2",
+        "link": "https://github.com/Mooling0602/ImShareChat",
+        "authors": [
+          "Mooling0602",
+          "XueK66"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0",
+          "im_api": ">=0.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A cross-platform instant message sharing plugin for MCDReforged.",
+          "zh_cn": "一个跨平台共享即时消息的MCDReforged插件。"
+        }
+      },
+      "size": 5146,
+      "hash_md5": "ccf4be7344d504c0b4c3072e0be3b44d",
+      "hash_sha256": "cc2d1554207fc5c3d5693e7e16d5056d8971f515546a06494bbd7244db25889e",
+      "ttl": 100
+    },
+    "227774634": {
+      "meta": {
+        "schema_version": 4,
+        "id": "im_share_chat",
+        "name": "ImShareChat",
+        "version": "0.0.1",
+        "link": "https://github.com/Mooling0602/ImShareChat",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0",
+          "im_api": ">=0.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A cross-platform instant message sharing plugin for MCDReforged.",
+          "zh_cn": "一个跨平台共享即时消息的MCDReforged插件。"
+        }
+      },
+      "size": 4460,
+      "hash_md5": "0e74bd6774f12ba83aa205a7fed654a5",
+      "hash_sha256": "53658b1fdaae60aefcce3ab1ee648d8a59a8780d6d1e8cd0641c99f80a047339",
+      "ttl": 100
+    },
+    "243162471": {
+      "meta": {
+        "schema_version": 4,
+        "id": "im_share_chat",
+        "name": "ImShareChat",
+        "version": "0.0.4",
+        "link": "https://github.com/Mooling0602/ImShareChat",
+        "authors": [
+          "Mooling0602",
+          "XueK66"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0",
+          "im_api": ">=0.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A cross-platform instant message sharing plugin for MCDReforged.",
+          "zh_cn": "一个跨平台共享即时消息的MCDReforged插件。"
+        }
+      },
+      "size": 7107,
+      "hash_md5": "ba7f4cd0f27cc2eb0353acb838daf5e1",
+      "hash_sha256": "7742db7476f3d949331e326e61b93edb6a06af23cc54cb3aa1d9dbb8166bd02c",
+      "ttl": 100
+    },
+    "243171306": {
+      "meta": {
+        "schema_version": 4,
+        "id": "im_share_chat",
+        "name": "ImShareChat",
+        "version": "0.0.5",
+        "link": "https://github.com/Mooling0602/ImShareChat",
+        "authors": [
+          "Mooling0602",
+          "XueK66"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0",
+          "im_api": ">=0.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "A cross-platform instant message sharing plugin for MCDReforged.",
+          "zh_cn": "一个跨平台共享即时消息的MCDReforged插件。"
+        }
+      },
+      "size": 7104,
+      "hash_md5": "93f4fcf8bda0b5cac56f2098435fe73e",
+      "hash_sha256": "eb971328d0aec147fa743db52a89cf68dd921d0e604fae597b1ba1daeb33d932",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"833d014aa64ffabf22ea26d850bc713a9d77993c519cf0aecc63513d387933fd\"",
+    "data": "H4sIAHJo7mcC/62YbW/jNgyA/0qRr2tr57VpgMNta4FuwLXX3VoM6DoYsk3HusiSJ8nJUqP/fZT8kti39ZqqX5yYEh/RlCiRKgc0HiyOzkfnZ8OziT89PhpwEUNgpYMvwWp5+flmlEf8t4FpIhkY+a/Z7ymRcJESbcRJwVjQtF0LwShf+jN/5PX65ZKuiTa9EsIUoERsOEh8LwdMLCnv6Rsda8hwcnY+m4xm865599a8i5tffg5/Mn0J0okMCslMa6p1rhaeV0nV6ZLqtAgLBTISXAPXp5HIvMJr4R/XHyYGs5Q1qBrFiPrInNa4ioFM5fUMT3XG+qbs6fR6J4IxsUFMcOBQXqu5w2DTGzH4VnpCp4BexC7P1h1U6cPNslql/UE/WpBCn0qID0bVemiYWS3PpSchFxWxCFUkaa6p4Ieb2NE2OCGXhNMn8jYcaluKse5wbatl1GGNS/Nw/Uqt9GyMRdvnypII6Bo9/kZmT98g9Ta3UX6PnW1g4G+wprAJmpa8CBmN7OxQDQGJMxvXNuKfD4qL/vYRQztdRvmxmIDvm+eIPBbzGOaPxRTOxvgcJyifDs+GppWERmLks2kyw2c8x54zf5Y8Fmez+eT64vILJDh7EKN4HI+Mkuk49pvYlKu9PetlL9p5fOkrDO17U/EixLMEg1rB1o1kAKV5NiEa4S5AQiGJFtIN3SGVnVc7kgaSuY1gCXanFcLRo5ZgTxulCnhduLxMtCDVRiUvsrDeTt8BvgtHohRdcgA3XkspvXbXDyXhUeoIbiBl/a+aebJ0nHhSbbQhE6EbCTt6llJ6KiX1aacDZwsN10C6WAmJO9ZAdlgtXefemirt3DdQPG81rgM3bgPxygbLCF8WZOnIbSlNRrEkTyCdba0x1R7ItaRh8Q5b4A60l62EzubuOP0k6D241QFrHZFlVLv6wDK6gfAeYLNuv4EbgfPu2kA6u3Z1MNRN73Ey/OcodWHivuwMxCt/yIlOG8fk2O7qF8PwypBgJnd6elqmQKq0IQPpGtcVwp5pMkox63SilQ0Ec6WMaFszJNbUGIsIJkjsZm1LadfGe6QLnbWQY1HtBrWEDjOjDJQW3HWuWkyHzoWmCY1eVT69PECHVH5UlEdwTBg7xgWoaURxXaNafaqEwFyPFIPATyEZ1HUTA+J6ADaQ0qtz6xhyJrbu+9Mex4a2BKKxRsPqAokjfzQ98Ucn/vmdP1/4s8Vo8mDrtDz+ptfkxB/fDf3FcLYYnz9Ua06l/9dpvpjOH5odvLYf/76qejMfZ48qle6p/rhTXHxHMWK42g6vGttx1/xtJWcqMsgx20BNjtFki9on8zaed9OPSBTceM1H8YZoTHp7wiZvMTbcbnVaHbEpUUEV+yjXsoBalkvxFSLdk+52nY54Q1e0p24TpF3JapWpigpM9M1dx66lqkYbQ4d2j5BSNJdo9UfXu2m8p4g4ErKOSOTA66/pfjqNgCuw13xYa9rZz9nJ+NTfv1O8urk/ugIOkrCjW3uHcPSpUjxa111VHv9TX8pd3X5qAC/HUj248vaH3F0hXl9Gs7sr9vXhj+nTw93qw8BcURBzFWaOjhUui51nqQo0ZDnrXmFuIKwTmsBUUSJJMNH/u6Cy4xstchoZx//5F76tqaIhZVRvuzcmVWVfzcOeN3vrqn6NISEF00FVWhlQRqhdVTnIjLZTXQ46dzDHVT9NOiIT+fvmSlqt1V07Y7Unnm31nuVBFZRarIA396Qc9Aa/obOg9tPeVv78L/6pU3F5FgAA"
+  }
+}

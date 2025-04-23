@@ -1,0 +1,160 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"edcdb29fbb453e941da1f68ae5b4d79e99a6aa3d987132fa63d524f712bb6e1f\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPR61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "233815286": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chat_with_ai",
+        "name": "Chat with AI",
+        "version": "1.2.0",
+        "link": "https://github.com/gubaiovo/MCDR_chat_with_ai",
+        "authors": [
+          "gubai"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.13.2"
+        },
+        "requirements": [
+          "mcdreforged",
+          "openai"
+        ],
+        "description": {
+          "en_us": "Let your server chat with AI",
+          "zh_cn": "让你的服务器接入AI"
+        }
+      },
+      "size": 3482,
+      "hash_md5": "4b1c7462e8142a919babb82740bad66f",
+      "hash_sha256": "94f49758ac4f3d5e4ef7691ce8e713d47906f8c5c25c2766fe7f7e37180d502b",
+      "ttl": 100
+    },
+    "233843278": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chat_with_ai",
+        "name": "Chat with AI",
+        "version": "1.3.0",
+        "link": "https://github.com/gubaiovo/MCDR_chat_with_ai",
+        "authors": [
+          "gubai"
+        ],
+        "dependencies": {
+          "uuid_api": ">=0.1.2"
+        },
+        "requirements": [
+          "mcdreforged",
+          "openai",
+          "requests"
+        ],
+        "description": {
+          "en_us": "Let your server chat with AI",
+          "zh_cn": "让你的服务器接入AI"
+        }
+      },
+      "size": 4998,
+      "hash_md5": "abb953238416b77b37918bc06c2cd425",
+      "hash_sha256": "5dd48d2f5be0cabb3dd844a9aadd298e42e86ec3055f3e74ee1b229f251da098",
+      "ttl": 100
+    },
+    "234122810": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chat_with_ai",
+        "name": "Chat with AI",
+        "version": "1.4.0",
+        "link": "https://github.com/gubaiovo/MCDR_chat_with_ai",
+        "authors": [
+          "gubai"
+        ],
+        "dependencies": {
+          "uuid_api": ">=0.1.2"
+        },
+        "requirements": [
+          "mcdreforged",
+          "openai",
+          "requests"
+        ],
+        "description": {
+          "en_us": "Let your server chat with AI",
+          "zh_cn": "让你的服务器接入AI"
+        }
+      },
+      "size": 8812,
+      "hash_md5": "f53fbb42462661ce3ee04cdc24dc0415",
+      "hash_sha256": "5bdf255fd2e2dc229f5ddc4f1defaf80223b141248447a3da67fecb709fa5cfe",
+      "ttl": 100
+    },
+    "236870382": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chat_with_ai",
+        "name": "Chat with AI",
+        "version": "1.4.1",
+        "link": "https://github.com/gubaiovo/MCDR_chat_with_ai",
+        "authors": [
+          "gubai"
+        ],
+        "dependencies": {
+          "uuid_api": ">=0.1.2"
+        },
+        "requirements": [
+          "mcdreforged",
+          "openai",
+          "requests"
+        ],
+        "description": {
+          "en_us": "Let your server chat with AI",
+          "zh_cn": "让你的服务器接入AI"
+        }
+      },
+      "size": 9485,
+      "hash_md5": "bbe6e6d94dddd4361f4f4127bd31dc56",
+      "hash_sha256": "b39abf55bc40b5bf8445e82ce5c8412c576c6923da754b01afc86f6cd73109d5",
+      "ttl": 100
+    },
+    "236873302": {
+      "meta": {
+        "schema_version": 4,
+        "id": "chat_with_ai",
+        "name": "Chat with AI",
+        "version": "1.4.2",
+        "link": "https://github.com/gubaiovo/MCDR_chat_with_ai",
+        "authors": [
+          "gubai"
+        ],
+        "dependencies": {
+          "uuid_api": ">=0.1.2"
+        },
+        "requirements": [
+          "mcdreforged",
+          "openai",
+          "requests"
+        ],
+        "description": {
+          "en_us": "Let your server chat with AI",
+          "zh_cn": "让你的服务器接入AI"
+        }
+      },
+      "size": 9470,
+      "hash_md5": "85325d28f64927332cb75b1cd01d34b2",
+      "hash_sha256": "ce4695b9ba90fed2074adba868e7286ba8a67f711400a729611c44bfdc1acbc6",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"1fe4e6538fdbf1e307cfa5ab58260283ae52f6aee15796203f885a72e23e4cd9\"",
+    "data": "H4sIABHkAWgC/62YbW/jNgyA/0qQr2vrpG3aW4DhdluHocD1bnfIXtBhMGRZsdXIlifJySVG/vtIya9psTS1v7SxLD6iaIoiWYx5OJ6Pvr+eTm6mk9nV2WicypD5dnT81V9Fd58//xTu1l/G+IokDMcffr776tOYGH/DTewTji+XuRB+NSPKA8LlWnovTs0UXxODE5dEaAYjcpMyBc/FWMiIp20EClh13k0nt5Obyayr48Pdl5s//vok6FP07eGObj49fZiiCIEViPJzJXBWbEym557nRvVFBMrkQa6ZojI1LDUXVCZe7lVrvF//cI2USJUctxgOHRIzXtIcApDaa+sem0QcqtESaE9dSiHkBgD+KYt4tVjD4Gn0FgaIFZ40MQPDwfu9NQHX5kSFrEhh/4HhLEWDERULT+OUQqASuse+8BTLpMPlgaaKZ4bL9ETlOqLIkioiKd+RN7BA1CJQrxNFrQjKsjW434nCTqbw7EGi273TgTK+BhO/BXggjDyzzexR/h1mWr+H//6as41fvcnyQHBqPwc3zCdhYk+uPdP713v+yzEiZPVXQvmPzIy2Mlcj0GLN1Ainj3D66MO9c3u1asWT/9+8tf2R9RF4zIjHOJ6FIG3Ftr1hyCjwb3WmKJxZEkhFjFS96R1Y0Xm0ixlGkt6LWIgNilL2t66F2OtB65y9zu+PQi1L1ycszZOgDITD8JsDRrTmUcpYb2QNKrw6ageKpDTuz644RfnL+QKJ+rsCcaEzEDLoDYO5ngUVno5JeW0Zfwg9EY2cLlmx5SBk5DRkowbwBquwst5QceEeNeAZvdEVxysqsiBplJOoP7oGVclCRHZMDaFxSXIBMzWKB/kw8bJhtTKSYAilG9RhrjMQ2l2r1iJJws0AxrCY7hkZiI3+/IyPA0NE44rTCfTuOilfDXSfvLhQWXsM4ovI8YrvMmLiykIZUWwAAyHGKwICSd3FxUURM+LSj4SpAQ6+o9j7UNEYctC+wKLiQPKVEGOrhqVVOIQyQkgS9ta5BtXeMlDa0fGODArq3lwL6WATLpg2Mh3g09WkzgKpNHzJ6avqqaNrdGDFe81Tys6IEGfglYZTDv4ORWt5FwVMDHARIQU2RBJW1lWCkQEuz4pTeGX6HrJMyO0gYayFsmdfMWKgmCMGoZeTy9n55Op8Ml1Mp/Pr2fzq9tEWdFn4bNb1+fTdYjKbX87ms+mj80IdP0NNLxfTW0SVkzDcl1uAn68t83CL9oLTcUv6x0Z2flyWCvC/NxWZ9err9M1FaiwTlkHWUvWGNN/h76tZN4mhMk/RfpcwvCEG8umDwSr7Qc5vWxO7yzkm2ndxAcaNylk5lin5xKg5GG2CUmd4w1f8QNymWU2tbIW5pjmUEdgSad64GrhSdGKDh1Ky6qqlEFuauB22BAFHAtEZkhlLy910iIJTlmpme39Q26IFEvdh6m7j/WL0sZyFds3Cb1Xv735xvCNXLqC9CtvuHdKbxa/i6fHP2e5x8ctujF0Lgo0wvDxWEFgay3HtG5Zkotu33LCgzHN8rMHkcgmlwb85V529G5lxiob9e5zQUJ1nIscmJ9oTHhmsFcH8f+B5zTUPuOBm222wuEaCs1jLkuVI5VOlN4VsSXJhfFexWYsSt1zGVMLrz1yMOy2bMzfPkM4Qnv/2VhR3ftq8F6K00t62CZLMd4fSyBVLq5ORMrOBPXQ+fTtlrk/D/j/Q830wkxYAAA=="
+  }
+}

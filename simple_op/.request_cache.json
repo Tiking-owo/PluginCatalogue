@@ -1,0 +1,91 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"0732f0d8e92e236cb159072010959989bd389782ae031d4f0cac60ef3211751b\"",
+      "data": "H4sIANDjCGgC/+2aXXPaOBSG/4qHm71owbJsPuyZnU4a0t3sDLBpSdqm3aHCFuBG/qgtQ4HJf19JtvkKIYHYudJFhiCOXllH0nv8YL4tK0lEKpZSmVAaxpaqotCtjV06SYY1O/DUCIdBrPYvP137buCrn1wvJLj3L2snGMU4VqFmAFBv6EblrVJBcYxpPChKUk31uHISkgA5u8ppa/wi9eU7H3n4LUFDTO75UBPqkd2BNgY4IE3RWJ1qNb0GuI7rMIXVaDw7CZ0EEWtcVkgwdn0+wAdECPar7yOM6GTdq2U2Wy3QYO/9wMED0VjptK8aN1+6xP55afT6ttFrn0GR9SmiKHqQddGa5yaJcWQHPsU+FbNI1HyMd9M/xdqNo0wnHUwk/eA6cslYfTCBJ9L3IH4UEBLMmNTg6OHUVd+1kOuPTxZifZdqQCeYJZMFid0wdmN6yqWJfkvxwjIqpGKW3Qg7J4hlPdnFzXx2XUuxy1PNZBjbkRtStiNPucyt/lwwiMbIdxfoVEHWX+iIc3hCf9GPC+Ap26unKKQdl2oYuVNkz+/Tq7GxO2W5P1l1R4GL0nmIuco1CxfHhb0Opi6eDfJPwmRIXFusk0vxADmeOPUjRGJ8v324P14M7mbtXvt39dffsdGZfcHnYgw0HnB/4iFra2HbYYzpgF2r51I3nvBPPRTT9DryeP6/E6ERzYdk78MIZ3a10WjzKbKpIR5ZgQDWq8CoQtjXmlbdsIB2y6XEZOLJ43E6uF0XARbx7cXFJZVSodGqA0PT4Nog85adJJ5tJrG3MFuzzYTkA1TTTNY82xEJE97PAvyEkFWtwdKppVNLp5ZOLZw6O5GreBSGLF7kXg1simk1pmx4L9s9VARlRuKksgveBiHQuS2z7SFuaO0g8bmb1p+2YcO4Te+EnYNRDRE1jIIZn+RqoJNuaPPe2V2tutdA7/9LK9KQrcKJt/5Z742b54UbvkAv672hNwycORc6U0Z4pnhBhBW2pCOXHQG2vC8uVLwcwWbDLA6CcsVSGGhHvHgEghsIlA8mCUjWVVlXZV19jIA6bbtx7d3Et58/LG77V0a3fzbvLr7W92AQfB0M0qqgVYWNvgYtqFug8RgGreJ0VqQtHZaEQYauG02zoa+dNWvYzePFvEf+IcO/biY2vHlv613itK8WncWV3ut/XTxGRFASkXRu6dzSuV+XiDR2lPcRkd5sGQdNWZgtbO2Hoh1LBiVBEdyBIlgOFMGCoQhuQ1FVuQ6ZhbJ1UWigdM7bHxVY094oQ0xZLVVohPyYiJVVuPnb36PvfkHYBHVowGaR2JQqloRNW+LFY5O2hU3pYBKbZPGVxVcW3+diU+dnZ95tX+p7sEk7Bptyk1LSjsooiERpgC/lKdgHulWHFmge5qk8LivxJfAUNM1mXWutLTdreBZPzXv9O73bvzAe4ylN8pS0dGnp0tJfm6fEj40e8JRmCA85aMrA0s1DPJVHGVpJPKXt8JRWDk9pBfOUts1TnyeB4gQ49v+gCnHvsBIi+47BVUgSZvW8knqIcojif+fiMZQycgm2lB8R5uebDhxM0PxHHtPfIDBGaNgf85KpxEkYBhFbpwJhDJhFwxgwS4QxUN4zLPAAxoB8hiUrt6zcsnIfCWNn+55hgWNgLI1fMZjC3r4phMOMuqXrz+Aww7Q0UCaHGXVzm8NYwxEc1r6u7+OwWjiX+CVNXJq4NPEj8Yvi31QNCWJRTwGXvv8nfeKr+4Pea+bfgR3CLR5lloRbYAO3uFUWS1mgYMoC25SFInvCt4GoinFAgoyv2Cz+B3zLD8jXNAAA",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPV61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "43347963": {
+      "meta": {
+        "schema_version": 4,
+        "id": "simple_op",
+        "name": "Simple OP",
+        "version": "1.2.0",
+        "link": "https://github.com/MCDReforged/SimpleOP",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0-beta"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "!!op to get op, !!restart to restart the server",
+          "zh_cn": "!!op 以获取op, !!restart 以重启服务器"
+        }
+      },
+      "size": 1978,
+      "hash_md5": "70520bad1e6e8cf7a04b09b79967c3b4",
+      "hash_sha256": "708ba752e7b378dcbfcfa7eae709fe7561e86e892c9c8307dcc4fefd5d4340b9",
+      "ttl": 100
+    },
+    "42997518": {
+      "meta": {
+        "schema_version": 4,
+        "id": "simple_op",
+        "name": "Simple OP",
+        "version": "1.1.0",
+        "link": "https://github.com/MCDReforged/SimpleOP",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "!!op to get op, !!restart to restart the server",
+          "zh_cn": "!!op 以获取op, !!restart 以重启服务器"
+        }
+      },
+      "size": 1934,
+      "hash_md5": "4700f6e6eb77625a33db0c4cc44d3928",
+      "hash_sha256": "e07a94b80429a7a78d3f0062eb666db17d508baadea19127a1f008f6aa9df917",
+      "ttl": 100
+    },
+    "248504112": {
+      "meta": {
+        "schema_version": 4,
+        "id": "simple_op",
+        "name": "Simple OP",
+        "version": "1.3.0",
+        "link": "https://github.com/MCDReforged/SimpleOP",
+        "authors": [
+          "Fallen_Breath"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.14.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "!!op to get op, !!restart to restart the server",
+          "zh_cn": "!!op 以获取op, !!restart 以重启服务器"
+        }
+      },
+      "size": 2203,
+      "hash_md5": "c194c4352dc3a2d11958c0eaa1d3be00",
+      "hash_sha256": "38219699fb7080cbc9188ea0a599c16927ae176adb5a546e3f5c66bc3b80659c",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"7bd0ac93cd0122e27ae20c4573aa84507bd97af7f091e6542adcf11069a17f93\"",
+    "data": "H4sIAADmB2gC/+1YbW/bNhD+K46/Lo0cvzSNgaL70K3ogDTtmgFdhkGgJFpiTZEcSdlwBP/33VEvltxmjalvQ74k1pHPw+Px7njHcsyS8XI0XcyuZrP55OX5aCxkQkMnHd+8/WV7y3/j8bvrB/Ll900s1rsPdzezm4ebyc3bP1+PcTrJKc79zHLF6e1HlK0KzsNm4O795z8EkyLozlCabYjF8RXhhoJEbgXV8F2OuUyZ6CIR4BSaL+bT+eTV9Tda7m7X17v76a8F+aKy5B3fRF8/XX54+x60TBcIJ7Aa0WGhOSIya5VZBkElNRcps1kRFYbqWApLhb2IZR4UQbPem83rObKkuuapFkbRMaNiNVtFAZQm6O4jszk/VqMD6E5dSc7lFgjCUxYJWtiBg4nUhwNgZSBtRsFwML53JmDGnqiQg5TuHxjOsRgwoqbJaTw1CFRCV9mXgaZKVnRFZGLNlIVpJyrXgyKX1CkR7IF4cAHUUaBeJ0IdBLF0A+53IrjClIELqni3r3SIKduAiX0Ij8DIZ3fKRfNtxzzO/wEZbhjdhs0MVUScxe5YmKUhSXIXzS7O90+PgF66SGh7SAg7O5NqZOUopXYk1fno7ExT9A6LwvZnRkeg3AayigsEve5km/82hzuN72uCPD+y5iPwwGGRZE13vhwILfFvE0oxhCqJpCZWal/SHkfZ+3RrWEpyX26HdZlPSm/LOay7Bowp6NN8+jEuR2HaoBFFHtW5bRDtIVSIMSwVlPoytfgyaNNupImIM2/KBl7Wv6pTJan3oZIq00VcRr4cMCVw+DIwGakvFxsO0AoZEd4n1HQ1hBDhB0Kr/c/VqafduTZ0kKksnLEvYwMPyoaQE5EWJPVmbPHNLZ2SB6oH6FcTVJlKWM2iYlCiOlB0Lv5ogIoHhuNKYhijam5ImJsz679jh+679DBK9MNvaFEwIPs18F4+rZJ1PTQsW3+Xvy7WhzgTwoPyJ0Vs1phBEU39rYDooIwI1DoXFxdlRkl1TedU+0dlBXZ3i44zqMw8ecoGDpVITqwroVdOvQRqai5J4qthi2/Pfdj13DtnBe2kL53D9thyxqFClML/NFqCHq+Qlq1Y/KTG4THqHkf5xjAR03PC+Tm4lWUxAz+FpqzO9BHl/mkewaA+9Oh1u8Ap8b+IGngZ1FVpQhWXuyEZpcPgAlNTYqEjIRa5ppPp5MVk/mJydTd5tZxNloure9eNqKQ/a4GzptO7y6vlYr68nNxX/mSyxyfNqkmYZ2vN4ecPehTckLs+TNYB/XyALB+FxBw86ZR+qF1rI05tozKZUwW3O2AExIVr0R7w67p/28eyEGicOYi3xELleCRsygRc/OPOZvXbBjFhFb4gt7qgtUxp+ZXG9kh6SBk98Zat2RHc1SOH3s2BmYkLqJOxaT+MVM1Zo+hLF+xay+bdp95znQSTDhDoSMR7IqmoqHfTMk5w6yymwnRMSPCpBDPqGkLzoDkzoaVg+v4r15ZG9e0dYpEvVyuoT/8pmO6tbaViMW7sr7/ha8MMixhndtdvr6t2stpnR9taz+bc6hNL6IoU3IZV/Y9EOTG26o0V1TlrjVmOey07GpEwYUlPhCHUVVizyhsO45zXtti7BjJXYeXpVq6paF7P4AytzNFBQAfLnPLl/ugV5vlR8PlR8PlR8P/9KCio3UI66+XubnPXZuD9vxW9urmyGAAA"
+  }
+}

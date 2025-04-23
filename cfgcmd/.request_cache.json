@@ -1,0 +1,220 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"3738689f1274e622196577f2c568693eb9da65c183a702fed25cb07d215e3033\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAH8q6WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "241619719": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cfgcmd",
+        "name": "configCommand",
+        "version": "1.2.0",
+        "link": "https://github.com/wang-yupu/configCommand",
+        "authors": [
+          "wangyupu"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "pyyaml",
+          "toml"
+        ],
+        "description": {
+          "zh_cn": "使用MCDR指令修改配置文件",
+          "en_us": "Modify config files with MCDR command"
+        }
+      },
+      "size": 15711,
+      "hash_md5": "ac2614357de59a231bb1612262344707",
+      "hash_sha256": "6d2edf9a87f21b4b930c73c2a4627a6b4efed448908358ce7eefce86449ca271",
+      "ttl": 100
+    },
+    "241159557": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cfgcmd",
+        "name": "configCommand",
+        "version": "1.1.0",
+        "link": "https://github.com/wang-yupu/configCommand",
+        "authors": [
+          "wangyupu"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "pyyaml",
+          "toml"
+        ],
+        "description": {
+          "zh_cn": "使用MCDR指令修改配置文件"
+        }
+      },
+      "size": 13101,
+      "hash_md5": "53d9d9e1657b3df7bd0c5661d03a8df4",
+      "hash_sha256": "18d341f89970ef170c5c6caa55b3d81ba49c25002f70202cd64dced2becc1d5d",
+      "ttl": 100
+    },
+    "240867665": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cfgcmd",
+        "name": "configCommand",
+        "version": "1.0.1",
+        "link": "https://github.com/wang-yupu/configCommand",
+        "authors": [
+          "wangyupu"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "pyyaml",
+          "toml"
+        ],
+        "description": {
+          "en_us": "使用MCDR指令修改配置文件"
+        }
+      },
+      "size": 12887,
+      "hash_md5": "ed73ffeb472fc5443161e7f64ea23813",
+      "hash_sha256": "a9cfbddc037ff2a4e5e46a25af7d02a5cdde93b9b4ef8295d81f30e115961c3d",
+      "ttl": 100
+    },
+    "242069268": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cfgcmd",
+        "name": "configCommand",
+        "version": "1.2.3",
+        "link": "https://github.com/wang-yupu/configCommand",
+        "authors": [
+          "wangyupu"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "pyyaml",
+          "toml"
+        ],
+        "description": {
+          "zh_cn": "使用MCDR指令修改配置文件",
+          "en_us": "Modify config files with MCDR command"
+        }
+      },
+      "size": 16642,
+      "hash_md5": "c0a59a94ab8be74ca8b3d6f19dbd07d6",
+      "hash_sha256": "3b262eb708e7fdf20cbc7fa7050451611aa98e115667dc779118d6f5ddea98f9",
+      "ttl": 100
+    },
+    "242886605": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cfgcmd",
+        "name": "configCommand",
+        "version": "1.2.4",
+        "link": "https://github.com/wang-yupu/configCommand",
+        "authors": [
+          "wangyupu"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "pyyaml",
+          "toml"
+        ],
+        "description": {
+          "zh_cn": "使用MCDR指令修改配置文件",
+          "en_us": "Modify config files with MCDR command"
+        }
+      },
+      "size": 16740,
+      "hash_md5": "d30f8731119804c9ccf054eb72f2a1dd",
+      "hash_sha256": "feab77af5f902c8bc8706810d8ccde41e399df306510acf361c76424ea6c85f7",
+      "ttl": 100
+    },
+    "242924093": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cfgcmd",
+        "name": "configCommand",
+        "version": "1.2.5",
+        "link": "https://github.com/wang-yupu/configCommand",
+        "authors": [
+          "wangyupu"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "pyyaml",
+          "toml"
+        ],
+        "description": {
+          "zh_cn": "使用MCDR指令修改配置文件",
+          "en_us": "Modify config files with MCDR command"
+        }
+      },
+      "size": 16746,
+      "hash_md5": "a0c3feca4e8e22a2b61b81121cfe5f58",
+      "hash_sha256": "279c4e89d62a98180f6729897248274dd5036a4324dbf8c5e2ff63835266018f",
+      "ttl": 100
+    },
+    "243714355": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cfgcmd",
+        "name": "configCommand",
+        "version": "1.2.6",
+        "link": "https://github.com/wang-yupu/configCommand",
+        "authors": [
+          "wangyupu"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "pyyaml",
+          "toml"
+        ],
+        "description": {
+          "zh_cn": "使用MCDR指令修改配置文件",
+          "en_us": "Modify config files with MCDR command"
+        }
+      },
+      "size": 16747,
+      "hash_md5": "c357bb7a3d8d6b499cf7f97ce3d50e7e",
+      "hash_sha256": "0101796bb4f350e0306d9f5bb0067b9871a44b5d8a21a10b3c069419de5eaff8",
+      "ttl": 100
+    },
+    "247274761": {
+      "meta": {
+        "schema_version": 4,
+        "id": "cfgcmd",
+        "name": "configCommand",
+        "version": "1.3.2",
+        "link": "https://github.com/wang-yupu/configCommand",
+        "authors": [
+          "wangyupu"
+        ],
+        "dependencies": {},
+        "requirements": [
+          "pyyaml",
+          "toml",
+          "requests"
+        ],
+        "description": {
+          "zh_cn": "使用MCDR指令修改配置文件",
+          "en_us": "Modify config files with MCDR command"
+        }
+      },
+      "size": 20302,
+      "hash_md5": "c6053c0654c9313d3a48234cd8f4f983",
+      "hash_sha256": "f0432826cf411a6d3b9357fd21bdffc5272593187a3270b75509a190f7f3e49d",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"b20fef9a7ca28c55e5d2080bb6a51cd695a00cf9d49f68922b1983d9bb82f340\"",
+    "data": "H4sIAFJLAWgC/62YbW/bNhCA/0rgr0siK36NgaIDWiAY0DZZke4lyyBQ0sliTYkaSdl1hPz3HUnJFp0trcN8iaMT7+HpyDvesRnQdLA4uZyM57N5OB2dngxKnkJkpIPP0Wr5/vr6uvpluBnoV6QALU94mdHlO14UpEz1i6xmLOrebki5PNvWVR08GVcJuiZKj8oIk4ASvilB4HMzYHxJS0dfaxhDpvNwNhmOp651H9//Ov3tj08s+frn+ONtEuLzhVYhOAURUS2YHpUrVclFEFipPF9SlddxLUGgdQpKdZ7wIqiDbo636zdjTVmKlmMn06JDYkVbmkUgUgaO8bkq2KEdPQ1nbMYZ4xtEREdNE+z09hBaLl8EQb0m4CoHdB4OeDRuoFIda5LRacwPes9gJHpSQHokqNVCo/QueWwCARW3vDqWiaCVorw81jxHV8O4WJKSPpCXwFDXMLRlx+oaHa0Ma9yHx2pbpSYwMZVsH60VCdA1+vlFxANtDVTbysT0FxxqQgB/ozWFTdS9qeqY0cSsCVUQkbQwUWzi+/GIGHiaLFLYLZNWvq/H2Sy7r2eTi/nHd+8/39fT0XCGUoCxfgeAksnoEv/Ohul9PbkgIY4mgDqX4Rgls2xqxsyNVja1ESNWvXT0vMPMgj1nsqZ9z+vPQgJD0KgVbP1IGtDov10MJhjkJOaCKC780A6pcR7NTApI4TeDIZgUyrmnRw3BHCVS1vBjkfE80YDkLgDLuojbbPkK8H3sESnpsgTw4+0oTbBL6rEgZZJ7gjtI0/5nV54sPRee2HwaMx77kXBgYChNIHPSHmYq8rZQczXExQrI/LEasscq4bv2xlRh1r6D4pGqcB/4cTtI0HRYhiNrsvTk7ihdybAkDyC8bW0xNgeWStC4foUUuAf1CpLY29w957DOeQ2uPU2NI4qCKl8fGIYbCK8B1vv2CVwLvLNrB3Gytj0Y2levcTL85yxtu+G/7TQkaH6qiMo7x1REgK9fNCNoYoJl2/n5eZMDsWVDAcI3ri3CnGkiybHE9KI1HQRrpYIo0xZkxtQU+wTGSepn7Y6y2xuvUS44e6HCftkPaggOs6AMpOKl71rtMA695IpmNPmhHun5CRxS81bSMoFTwtgpbkBFE4r7GhvR9lSJgfkeKRqBn0IKaFskBsT3AOwgTdDW1ilUjG/981OPY0JbAFHYkBGliRfDi8nZcHR2MbkN54vJeDEM70xTVqVPRo3PwtltOFuMw8XIjqpqmf/foPFiNL7rMnhrP/77Q62a/jhzVMm8p/rzXnHxHcWE4W47vkXczbsuX9Zf5ryACqsN1CwxmkwH+6CfwnDm1h8Jr0vttuGpvp1SWPUeCLvCRRtxs1W5PWNzIiMb/ChXooZWVgn+FRJ1IN2nHUe8oSvaa1CNvimRXFlKZVJjqa+vNPZvbD/at7SgQvDucqz97Dafpj1FxJGYOSJeQdl+jvvtNIFSgrnDw27TrH/Fzkbnw/6V4dWnLydXUIIg7OTGXBmcfLCKJ+t2qKzSb+1t29XNhw7wfDS1k8ugP2X/ijCZ3l6xr3e/Tx7ubldvBvpGgui7Ln14rDDP7J1NZaSgqJh7P7mBuC1pIt1H8SzDUv+fmgrHN4pXNNGO/+tvfFpTSWPKqNq6FyS2t7de63nzYGO1jylkpGYqss2VBhWEmm1VgSjobqmbgXPlcmrHKeKIdOz3zRXUbtb9e8ZaTzya/r2oIhuWiq+g7C5AS1Ab/AZn+fuFbycPH/8FeTUtbVgWAAA="
+  }
+}

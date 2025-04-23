@@ -1,0 +1,171 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"9d2b7f1ccb59dc89185cdd67f78180d8570d84cc434126e2ee98dd489eaaf32d\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPR61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "203108002": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bkchat_manager",
+        "name": "BukkitChatManager",
+        "version": "0.0.2",
+        "link": "https://github.com/Mooling0602/BukkitChatManager",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Manage chat in game for servers use BukkitAPI.",
+          "zh_cn": "接管BukkitAPI服务端的游戏内聊天"
+        }
+      },
+      "size": 14697,
+      "hash_md5": "23792d6bd2e2a9677179666ac17ccaff",
+      "hash_sha256": "2a39bb97de536a4f4bff98aede12b97a5945776baff09c54a9fa11414849c9ac",
+      "ttl": 100
+    },
+    "203094289": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bkchat_manager",
+        "name": "BukkitChatManager",
+        "version": "0.0.1",
+        "link": "https://github.com/Mooling0602/BukkitChatManager",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Take over chat messages in game for BukkitAPI servers.",
+          "zh_cn": "接管BukkitAPI服务端的游戏内聊天。"
+        }
+      },
+      "size": 1340,
+      "hash_md5": "86024b3c4890634a098bc8420c40cc21",
+      "hash_sha256": "967e0a7f721250ad30862c8c3bedf704fc9c76dd4af12b542d1c5bbd64914930",
+      "ttl": 100
+    },
+    "207100617": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bkchat_manager",
+        "name": "BukkitChatManager",
+        "version": "0.1.0",
+        "link": "https://github.com/Mooling0602/BukkitChatManager",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Manage chat in game for servers use BukkitAPI.",
+          "zh_cn": "接管BukkitAPI服务端的游戏内聊天"
+        }
+      },
+      "size": 17766,
+      "hash_md5": "d012010460b8091fb014393d90ed01c9",
+      "hash_sha256": "92f3af452b8e0c8ca6adb391a9353132b43af2c59ee4d74037bb0a51efd582aa",
+      "ttl": 100
+    },
+    "208325076": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bkchat_manager",
+        "name": "BukkitChatManager",
+        "version": "0.2.0",
+        "link": "https://github.com/Mooling0602/BukkitChatManager",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "strip_ansi"
+        ],
+        "description": {
+          "en_us": "Manage chat in game for servers use BukkitAPI.",
+          "zh_cn": "接管BukkitAPI服务端的游戏内聊天"
+        }
+      },
+      "size": 19284,
+      "hash_md5": "1135450140154818f340acf514c65214",
+      "hash_sha256": "dfbdfc832b0d22622b74f661be89f3c691aacf0969beea32906ea205c140b08a",
+      "ttl": 100
+    },
+    "226516747": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bkchat_manager",
+        "name": "BukkitChatManager",
+        "version": "0.2.1",
+        "link": "https://github.com/Mooling0602/BukkitChatManager",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "strip_ansi"
+        ],
+        "description": {
+          "en_us": "Manage chat in game for servers use BukkitAPI.",
+          "zh_cn": "接管BukkitAPI服务端的游戏内聊天"
+        }
+      },
+      "size": 8576,
+      "hash_md5": "3a9bdf3f6c42d6f0c19a4d341a28bbc1",
+      "hash_sha256": "84c17970bc8d033f8ed339153273305841ba3a9fe3959eaf7ecf9ab8e43309a1",
+      "ttl": 100
+    },
+    "226859444": {
+      "meta": {
+        "schema_version": 4,
+        "id": "bkchat_manager",
+        "name": "BukkitChatManager",
+        "version": "0.3.0",
+        "link": "https://github.com/Mooling0602/BukkitChatManager",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "strip_ansi"
+        ],
+        "description": {
+          "en_us": "Manage chat in game for servers use BukkitAPI.",
+          "zh_cn": "接管BukkitAPI服务端的游戏内聊天。"
+        }
+      },
+      "size": 21661,
+      "hash_md5": "0166d888fdc50c5d06fee2beaf8c6bd4",
+      "hash_sha256": "1f0fe035f2323b6f5590dba1efc1a9d5b5e30b89f104a0490be6b67a8ddf6bb9",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"60884b0138d4451a09b9d0861b4d34891ede0932cb68288ae9796f0f3b54ea72\"",
+    "data": "H4sIAAH232cC/62YbW/bNhCA/4rgr4stvySua6Do2gTICjRZUCQYkGEQKImWWFOkRlL2HMH/fccXSZa3ZXbKL3FE8Z47nu6O5NUDkg6WwWIxmb6bXs3HF8GA8RRHZnTwLVpnN7/ef0mKxaeBfoUKrMc/V+s1Udc5UneIoQyL4d31zTc9Y1VRGjXT7jinhGXj+Xga/rdIKcgGKS2wQlRiGOFbhgU81wPKM8KOUFrGmDe5fPd+fjmdL/pGPxmjr+9/+RwboxHQkYgqQfXbXKlSLsPQjspRRlRexZXEIuFMYaZGCS/CKmzhHzcfLjUmEw5kteihY2RJHM4ygCnDI8NzVdBjUw5kjmavOKV8C5joTFVhK9lh4NUbMfBUh1zlGLwIU/bGHUSq880yUrX5AT8akASfCpyejXJyYJiOln0dClxyS6ximQhSKsLZ+Sb2pDWOiwwx8oLehgNpQ9HWnS9tpLQ43kBoni9vxerQ5Fiy21tLEkw24PE3Mo/kNVLtSpPwTzDZJAb8RhuCt1HzpqxiShLzdYjCEUoLk9cm4/dn5cUrlSTF7ZczNcO8DhKYGRAWZFCVghUXgQV8evgSgJkbWJ5+qxkjmyxifVCLXveO+T4nWqfB/+ftU3mhgWnqGu+8QTWr1n+b3Ewg/VHMBVJceNPSg9a9R6NUYVR4U2ZgpvBy7s/7Bmb2ISkrfFoinQw3TNmmLquK2NVcv3q69EVSkoxh7A3dAuuw3TBigViS+9PR8Gr3n40dlPkLHWQrd0x57A0KMqEB1qHMkdtJVeTTbq1C8/oaBF551aB5nQYlPEaPWYAw0dPwYbNXEEneVDS8sG40UMSyCiZ4U9ECm0NOhl6w8LkCR7SFmilB4spvne6YB8eq2OciOuTxwc2zCnsoMJ4qCqI8Osng+rnmWYfOh3/o0QM+d4OG19tw7PbmXnne3/5VobuDeY1hzQvrn0qk8sZzJRLYo+M0LqxjBEfZ0WhU5xjZ41OBhceCYmlmvxZJDidwX+C64cGhskDKXKVWZgEp3K0oR6m3NbTANro8H5t60VRWlHrjG1gPXxCKpeLM4yduiT1FjCuyIslJN9CTdfWg9UdJWIIvEKUXEM2KJATyBQhub4wx9bgxahosEO5j7kJKMfK4uTe8OnTXmBSXlO+8lssDpKkpAiMFV2KkNHw6nl4OJ+PhbPI4Xixn8+Xs6tlci8u0P+tqOJ4NJ7PH8dVy/H45nT/bqJX5K5Nmz80245YC/557WdZLNhuuzA8oP3eM5emMhEK8/tDVvbVmw364BZDzApcwAhAGCWv6DS/66d2ifwxLeMW0hycwvEUKbhJHg835TZvzsFO5PT7kSEa20sC4EhV2Y6Xg33Gijka7ctcb3pI1ORI3B8Wu62CEiUwquEjpNlT3xnYRGkPHpgwJwZv+plu0q+jpgSDgUEx7Q7zEzK2mv3SSYCax6cCu8c6ER0mHs9H4sAl8e/8U3GKGBaLBg2nvBF+tYLBxU2WZ/uX6pbcPXxvA6ynolMvwUGXX3b27SeaPt/T7829XL8+P6w8D3T1Cukupt681REjnWSIjhYuS9rvLWxy7E1qkb6l8tYLL0Z8VET3fKF6SRDv+9z/gaUMkiQklatdvZtk2jP0OB948iiv3mOIVqqiK7H1VgwpETFSVWBSk/dT1oNceu7DzFOoN6SpxaK4gNla795Q6T+xNU6UoI5uqiq8xa1rYDKstrKEXUIcH/TYs9n8D7UCe6CoYAAA="
+  }
+}

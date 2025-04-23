@@ -1,0 +1,188 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"ada19e40d7a4ff7fe1e7137835b77f98b65ccd204056b33caac9dbd0bc3fbe06\"",
+      "data": "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",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPV61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "166226276": {
+      "meta": {
+        "schema_version": 4,
+        "id": "world_eater_manage",
+        "name": "World Eater Manage",
+        "version": "1.2.0",
+        "link": "https://github.com/Passion-Never-Dissipate/World_Eater_Manage",
+        "authors": [
+          "Bexerlmao",
+          "FRUITS_CANDY"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin designed for managing the World Eater on the vanilla server",
+          "zh_cn": "一个为原版服务器设计的世吞假人管理插件"
+        }
+      },
+      "size": 18817,
+      "hash_md5": "494cc97a75b77b7fcc5c24e35ff4ab4c",
+      "hash_sha256": "0d8da1e7fe67ca27651847b7b372332e4934292f1909c095e713703a194b8693",
+      "ttl": 100
+    },
+    "159384523": {
+      "meta": {
+        "schema_version": 4,
+        "id": "world_eater_manage",
+        "name": "World Eater Manage",
+        "version": "1.1.0",
+        "link": "https://github.com/Passion-Never-Dissipate/World_Eater_Manage",
+        "authors": [
+          "Bexerlmao",
+          "FRUITS_CANDY"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin designed for managing the World Eater on the vanilla server",
+          "zh_cn": "一个为原版服务器设计的世吞假人管理插件"
+        }
+      },
+      "size": 18798,
+      "hash_md5": "1b0efd2ce13f44dddabca7c51cb80c68",
+      "hash_sha256": "6b863722616fc59e14f9f1548537662a0d6603a40108db02e50d6c1a16971073",
+      "ttl": 100
+    },
+    "159131996": {
+      "meta": {
+        "schema_version": 4,
+        "id": "world_eater_manage",
+        "name": "World Eater Manage",
+        "version": "1.0.0",
+        "link": "https://github.com/Passion-Never-Dissipate/World_Eater_Manage",
+        "authors": [
+          "Bexerlmao",
+          "FRUITS_CANDY"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin designed for managing the World Eater on the vanilla server",
+          "zh_cn": "一个为原版服务器设计的世吞假人管理插件"
+        }
+      },
+      "size": 18804,
+      "hash_md5": "f170bd33b041f3b211d54baf660024d5",
+      "hash_sha256": "2e3fc0bce9868f6277c9164deaf2cadf4a62b1be64039e66fee1a496f13b103a",
+      "ttl": 100
+    },
+    "224291895": {
+      "meta": {
+        "schema_version": 4,
+        "id": "world_eater_manage",
+        "name": "World Eater Manage",
+        "version": "1.3.0",
+        "link": "https://github.com/Passion-Never-Dissipate/World_Eater_Manage",
+        "authors": [
+          "Bexerlmao",
+          "FRUITS_CANDY",
+          "SeeU_SAMA"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.6.0"
+        ],
+        "description": {
+          "en_us": "A plugin designed for managing the World Eater on the vanilla server",
+          "zh_cn": "一个为原版服务器设计的世吞假人管理插件"
+        }
+      },
+      "size": 18825,
+      "hash_md5": "77e13bb706b12739b7f2f58be33e68ce",
+      "hash_sha256": "85adff455e873eb5e0edff7754b19d3405919f5e289d042eba84a9087d1a75e3",
+      "ttl": 100
+    },
+    "233687569": {
+      "meta": {
+        "schema_version": 4,
+        "id": "world_eater_manage",
+        "name": "World Eater Manage",
+        "version": "1.4.0",
+        "link": "https://github.com/Passion-Never-Dissipate/World_Eater_Manage",
+        "authors": [
+          "Bexerlmao",
+          "FRUITS_CANDY",
+          "SeeU_SAMA"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.7.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.7.0",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "A plugin designed for managing the World Eater on the vanilla server",
+          "zh_cn": "一个为原版服务器设计的世吞假人管理插件"
+        }
+      },
+      "size": 20075,
+      "hash_md5": "1d15880e1606652290fd187b64ce9f00",
+      "hash_sha256": "b52486e122c9f01739ada7fc6bff62878c3de110a73bb4ed182fc0c0d174fdd6",
+      "ttl": 100
+    },
+    "234126095": {
+      "meta": {
+        "schema_version": 4,
+        "id": "world_eater_manage",
+        "name": "World Eater Manage",
+        "version": "1.4.1",
+        "link": "https://github.com/Passion-Never-Dissipate/World_Eater_Manage",
+        "authors": [
+          "Bexerlmao",
+          "FRUITS_CANDY",
+          "SeeU_SAMA"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.7.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.7.0",
+          "ruamel.yaml"
+        ],
+        "description": {
+          "en_us": "A plugin designed for managing the World Eater on the vanilla server",
+          "zh_cn": "一个为原版服务器设计的世吞假人管理插件"
+        }
+      },
+      "size": 20085,
+      "hash_md5": "b790e91c8bcf4bef13472c170e645a5d",
+      "hash_sha256": "7f34eb2258a643113974549f3484d252e233dc9c82254cf571298751a600f839",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"80eb302ea827f26dab6883c4006602b99cfdb197c2a3b9abf116481a54c40aba\"",
+    "data": "H4sIAAaC6mcC/+2ZbW/bNhCA/0rgr0si+T0JUHTDMgQY0qYYshXIOgiUdLYYU6RGUnYdwf99R1KSJa/NmlrCvuSLbB3J5/hyPB5PxYDGg6uT+XzqTyfTi4vTkwEXMQRWOvgtWC2v724ff10FPw1MEUnByD8KyeLgF6JBBu8IJ0swpYucsaCq8oEoRQU/ew9rkGfXFN8yrO99uWkm6RpF2HBBmAKUiA0Hie/FgIkl5c8gTXvb3eFscnkxmV3O2oO4s4P4Of5jDHYQBDURGeSSmdJE60xdeZ6TqvMl1Uke5gpkJLgGrs8jkXq5V8Pfrt9MDGYpS5DTYkSHyIyWOMdApvKeGUSiU3bYrUb7Z1ouBGNig/jgiC54NWWPpHzZARIphSd0gktuqu/s9FGlj+uuJRT2B9fAQhWuh4T4KGzJwA4bC9wVnoRMOHoeqkjSTGOz47reIhm0kEvC6RM5Ho0kSzS9Po5kCQaFcn7kWjlE4dl9Hm13rocR0DWuVgf8A5bB621mHdFdY2rtJkVQsKawCaoaWR4yGtkVphoCEqfW31hPtPvuffkVTxdDvfKG9ymfgO+b54iY5xif0/Hl4lM+H00uPuWzuR+jZESG+JzNUHIRhmCeRjKfXUxMq+EMSydDlE/9ydxIQuTMXZ2Jj6WzcTwy8sXMbW65avja52fe2sELR2kU/NeKvpTrWaihr2DbOdwwC/OsfEmErouEQhItZOfaWvCi9WqVayBp50ot1B40QnS/OhZqz2Klcvi2Tf1iJZatanfC8zQsz5N+9O3diWmz5ACdq6jBhVcfjqEkPEq611Vxi/KfszWy7N7UiDuFQibCzuHY1rPgwlMJKaMJHfQxDqPKcNuaJCx60WS4e01a9mBtdkDSWlulBwMejZbXuaqK6xWVJkb4MseizlXV4CoIXJInkH2MqCS7A4JrScO8n/Nhz26EnmEfg9qjD4PcnlRlVSiGkJTqHibPYtt7tiddZj/9S58R9HEaVdzWweeO27Kop/P2i4rL+3Evtm+4XvEDVkmqGc2IhB4m1GC9IiQY6p+fnxcJEBf+pSB7cFSOauMJGSV4Y+laQVFxMVhOibbX14UdUIz3WSZI3PmYanBtjT2FfS3ry3LGOtdjoS01KWWgtOA9mEJNbinkQtMFjb4pE/BinS148VZRHsEpYewUd4GmkWlH+bI8q0NgPRzUhooDJimUSQAGpIfgo+IWXnmdiyFjYtuLW26gra+SgKVxQLRRMvJHkzN/fDby74fzq+H0ajp6sGmILG7Xmppa4+H90McqV8Phg7NylXy9kj9/qI63ckj493uTE2YKbACgkgbtxz3r6uWsiKF9d5I6qXu35p2lYhKRQmb+l+lbRZ/M/8t5O4iMRM7N/A9RvCEa708Hwir6tDnqrU5ccJMQFTi/hXItcyhlmRSPEOkD6d6JtsQbuqIHzW2Yu8/d2MZURbkdebPE5WCqjvrWmUkpqsw3R1+3P4fiRkPEkZC1RCIDXo6mRWQ0Aq7A5ulXsLVGk7Gz8bnf/Fxw8/73kxvgIAk7+WCTbSe3ruHJuqyqsvhzmUm/+XBbAZ7fqKVy5TVV7vP+766j2f0Ne3z4OH16uF+9GZhcHjH5aHM4rtDR7WeWqkBDmrH2N4gNhGXcGJg7ulgs8Or3d05la260yGhkJv7Pv/BtTRUNKaN6204tuuSVm7XGbJaSyq5Ki4phQXKmA3dLN6CUUGtVGciU1ktdDFrJylNXT5OWyPiQZncldba6L2esnImdTT2lWeA2rhYr4NXuQAvTIjXmi33Q1Ha92B3krl8/2Lx+sHn9YPP6web//WDDQW/Q3bZOqmYGpT68d/8A42GSd/8eAAA="
+  }
+}
