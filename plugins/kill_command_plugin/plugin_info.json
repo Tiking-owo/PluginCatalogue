@@ -1,0 +1,12 @@
+{
+	"id": "kill_command_plugin",
+	"authors": [
+		{
+			"name": "Lc_Tiking",
+			"link": "https://github.com/Tiking-owo"
+		}
+	],
+	"repository": "https://github.com/Tiking-owo/Kill-Command-Plugin",
+	"branch": "main",
+	"labels": ["tool"]
+}
